@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+🌱 This is where I share my projects with other people.
+
+#### ✨I have something like this here:
+* Quite complex projects like <b>Election Calculator</b> 🗳️ with a political test or <b>Flag Finder</b> 🗺️ with a guessing game
+*  Web games like <b>BrainGO!</b> 🧠
+*  Simple applications using API such as <b>WeatherApp</b> ⛅ and <b>Wordle cheater</b> 🟩
+*  Page templates in HTML5 and CSS3
+
+ I write mainly in React. I'm slowly learning Node.js right now.
+
+🔭 Feel free to check out my pinned apps.
 <!--
 **Damiinho/Damiinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
